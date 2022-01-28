@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2102" started-at="2022-01-28T04:23:24Z" finished-at="2022-01-28T04:23:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2102" started-at="2022-01-28T04:23:24Z" finished-at="2022-01-28T04:23:26Z">
+      <class name="resassured1.Get1">
+        <test-method status="PASS" signature="bf1()[pri:0, instance:resassured1.Get1@28d25987]" name="bf1" is-config="true" duration-ms="662" started-at="2022-01-28T04:23:24Z" finished-at="2022-01-28T04:23:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf1 -->
+        <test-method status="PASS" signature="delete1()[pri:0, instance:resassured1.Get1@28d25987]" name="delete1" duration-ms="1426" started-at="2022-01-28T04:23:24Z" finished-at="2022-01-28T04:23:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete1 -->
+      </class> <!-- resassured1.Get1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
